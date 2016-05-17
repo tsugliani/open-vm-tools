@@ -91,7 +91,7 @@ Packaging: If you are interested in creating a Tools package, please see https:/
 
 #Getting Involved
 ##How can I get involved today?
-You can get involved today in sevearl different ways:
+You can get involved today in several different ways:
 - Start using open-vm-tools today and give us feedback .
 - Suggest feature enhancements .
 - Identify and submit bugs under issues section: https://github.com/vmware/open-vm-tools/issues
